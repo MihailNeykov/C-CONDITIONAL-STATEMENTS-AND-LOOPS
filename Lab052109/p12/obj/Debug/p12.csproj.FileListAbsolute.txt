@@ -1,0 +1,6 @@
+C:\Users\Misho\source\repos\Lab052109\p12\bin\Debug\p12.exe.config
+C:\Users\Misho\source\repos\Lab052109\p12\bin\Debug\p12.exe
+C:\Users\Misho\source\repos\Lab052109\p12\bin\Debug\p12.pdb
+C:\Users\Misho\source\repos\Lab052109\p12\obj\Debug\p12.csproj.CoreCompileInputs.cache
+C:\Users\Misho\source\repos\Lab052109\p12\obj\Debug\p12.exe
+C:\Users\Misho\source\repos\Lab052109\p12\obj\Debug\p12.pdb

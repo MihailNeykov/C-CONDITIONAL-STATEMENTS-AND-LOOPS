@@ -1,0 +1,7 @@
+C:\Users\Misho\source\repos\Ex062209\p08\bin\Debug\p08.exe.config
+C:\Users\Misho\source\repos\Ex062209\p08\bin\Debug\p08.exe
+C:\Users\Misho\source\repos\Ex062209\p08\bin\Debug\p08.pdb
+C:\Users\Misho\source\repos\Ex062209\p08\obj\Debug\p08.csproj.CoreCompileInputs.cache
+C:\Users\Misho\source\repos\Ex062209\p08\obj\Debug\p08.exe
+C:\Users\Misho\source\repos\Ex062209\p08\obj\Debug\p08.pdb
+C:\Users\Misho\source\repos\Ex062209\p08\obj\Debug\p08.csprojResolveAssemblyReference.cache

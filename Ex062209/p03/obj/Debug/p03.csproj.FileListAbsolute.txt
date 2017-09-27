@@ -1,0 +1,6 @@
+C:\Users\Misho\source\repos\Ex062209\p03\bin\Debug\p03.exe.config
+C:\Users\Misho\source\repos\Ex062209\p03\bin\Debug\p03.exe
+C:\Users\Misho\source\repos\Ex062209\p03\bin\Debug\p03.pdb
+C:\Users\Misho\source\repos\Ex062209\p03\obj\Debug\p03.csproj.CoreCompileInputs.cache
+C:\Users\Misho\source\repos\Ex062209\p03\obj\Debug\p03.exe
+C:\Users\Misho\source\repos\Ex062209\p03\obj\Debug\p03.pdb

@@ -1,0 +1,7 @@
+C:\Users\Misho\source\repos\Ex062209\p13\bin\Debug\p13.exe.config
+C:\Users\Misho\source\repos\Ex062209\p13\bin\Debug\p13.exe
+C:\Users\Misho\source\repos\Ex062209\p13\bin\Debug\p13.pdb
+C:\Users\Misho\source\repos\Ex062209\p13\obj\Debug\p13.csprojResolveAssemblyReference.cache
+C:\Users\Misho\source\repos\Ex062209\p13\obj\Debug\p13.csproj.CoreCompileInputs.cache
+C:\Users\Misho\source\repos\Ex062209\p13\obj\Debug\p13.exe
+C:\Users\Misho\source\repos\Ex062209\p13\obj\Debug\p13.pdb

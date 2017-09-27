@@ -1,0 +1,6 @@
+C:\Users\Misho\source\repos\Lab052109\p07\bin\Debug\p07.exe.config
+C:\Users\Misho\source\repos\Lab052109\p07\bin\Debug\p07.exe
+C:\Users\Misho\source\repos\Lab052109\p07\bin\Debug\p07.pdb
+C:\Users\Misho\source\repos\Lab052109\p07\obj\Debug\p07.csproj.CoreCompileInputs.cache
+C:\Users\Misho\source\repos\Lab052109\p07\obj\Debug\p07.exe
+C:\Users\Misho\source\repos\Lab052109\p07\obj\Debug\p07.pdb

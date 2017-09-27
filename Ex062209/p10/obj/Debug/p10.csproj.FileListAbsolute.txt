@@ -1,0 +1,6 @@
+C:\Users\Misho\source\repos\Ex062209\p10\bin\Debug\p10.exe.config
+C:\Users\Misho\source\repos\Ex062209\p10\bin\Debug\p10.exe
+C:\Users\Misho\source\repos\Ex062209\p10\bin\Debug\p10.pdb
+C:\Users\Misho\source\repos\Ex062209\p10\obj\Debug\p10.csproj.CoreCompileInputs.cache
+C:\Users\Misho\source\repos\Ex062209\p10\obj\Debug\p10.exe
+C:\Users\Misho\source\repos\Ex062209\p10\obj\Debug\p10.pdb

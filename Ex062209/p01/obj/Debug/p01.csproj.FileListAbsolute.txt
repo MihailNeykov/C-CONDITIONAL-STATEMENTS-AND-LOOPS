@@ -1,0 +1,7 @@
+C:\Users\Misho\source\repos\Ex062209\p01\bin\Debug\p01.exe.config
+C:\Users\Misho\source\repos\Ex062209\p01\bin\Debug\p01.exe
+C:\Users\Misho\source\repos\Ex062209\p01\bin\Debug\p01.pdb
+C:\Users\Misho\source\repos\Ex062209\p01\obj\Debug\p01.csprojResolveAssemblyReference.cache
+C:\Users\Misho\source\repos\Ex062209\p01\obj\Debug\p01.csproj.CoreCompileInputs.cache
+C:\Users\Misho\source\repos\Ex062209\p01\obj\Debug\p01.exe
+C:\Users\Misho\source\repos\Ex062209\p01\obj\Debug\p01.pdb

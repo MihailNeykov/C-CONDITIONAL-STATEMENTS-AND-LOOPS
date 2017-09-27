@@ -1,0 +1,6 @@
+C:\Users\Misho\source\repos\Lab052109\p04\bin\Debug\p04.exe.config
+C:\Users\Misho\source\repos\Lab052109\p04\bin\Debug\p04.exe
+C:\Users\Misho\source\repos\Lab052109\p04\bin\Debug\p04.pdb
+C:\Users\Misho\source\repos\Lab052109\p04\obj\Debug\p04.csproj.CoreCompileInputs.cache
+C:\Users\Misho\source\repos\Lab052109\p04\obj\Debug\p04.exe
+C:\Users\Misho\source\repos\Lab052109\p04\obj\Debug\p04.pdb
